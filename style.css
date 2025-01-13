@@ -1,0 +1,27 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: 'Noto Sans KR', sans-serif;
+}
+
+.navbar{
+    height: 90px;
+}
+
+.bg-body-tertiary {
+    background-color: #fff !important;
+}
+
+.navbar-collapse{
+  flex-grow:unset;
+}
+
+.nav-item{
+    padding: 0px 24px;
+    font-weight: bold;
+}
+
+
+.carousel-inner{
+    border-radius: 40px 0 40px 0;
+}
