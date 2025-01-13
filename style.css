@@ -25,3 +25,43 @@ body{
 .carousel-inner{
     border-radius: 40px 0 40px 0;
 }
+
+
+
+.row{
+    margin-top: 20px;
+    padding: 10px;
+    height: 200px;
+    align-items: center;
+}
+
+.list-group-item.active{
+    background-color: #f9bb00;
+    border-color: #f9bb00;
+}
+
+
+.swipe-container{
+    display: flex;
+    justify-content: space-around;
+    padding: 6px;
+}
+
+.btn-outline-success{
+    background-color: #f9bb00;
+    border-color: #f9bb00;
+    color: #fff;
+    border-radius: 20px;
+
+}
+
+.d-flex{
+    width: 80%;
+    margin: 20px auto;
+}
+
+.form-control{
+    border:2px solid #f9bb00;
+    border-radius: 15px;
+
+}
